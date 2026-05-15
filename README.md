@@ -9,6 +9,10 @@ A high-performance Windows utility written in Go for generating organic, human-l
 - **Safe Zone Constraint:** Logic-bound to the central 50% of the screen to prevent accidental interaction with taskbars, system trays, or UI borders.
 - **Zero External Dependencies:** Built using direct `uintptr` syscalls to `user32.dll` and `kernel32.dll` for a minimal, stealthy footprint.
 
+## ⚡ Quick Start (No Compilation Required)
+
+If you prefer not to build from source, you can download the pre-compiled binary (`synthesizer.exe`) directly from the **[Releases](https://github.com/henriquekrah1/heuristic-input-synthesizer/releases)** section of this repository.
+
 ## 🛠 Prerequisites
 
 - **OS:** Windows 10/11
