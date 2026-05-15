@@ -18,7 +18,7 @@ A high-performance Windows utility written in Go for generating organic, human-l
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/heuristic-input-synthesizer.git](https://github.com/your-username/heuristic-input-synthesizer.git)
+   git clone https://github.com/henriquekrah1/Heuristic-Input-Synthesizer
    cd heuristic-input-synthesizer
    ```
 
